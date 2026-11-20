@@ -33,7 +33,7 @@ Engineer and founder. I build products across AI, Web3 and automation — from i
 
 ### ⚙️ Stack
 
-`Python` `FastAPI` `LLM APIs` `tool calling` `MCP` `n8n` `Docker` `Google Cloud` `Cloud Run` `Cloudflare` `SQLite` `PostgreSQL` `Telegram Bot API` `Telegram Mini Apps` `TON` `Ethereum` `JavaScript` `GitHub Actions`
+`Python` `TypeScript` `React` `FastAPI` `LLM APIs` `tool calling` `MCP` `n8n` `Docker` `Google Cloud` `Cloud Run` `Cloudflare` `SQLite` `PostgreSQL` `Telegram Bot API` `Telegram Mini Apps` `TON` `Ethereum` `JavaScript` `GitHub Actions`
 
 ### 📬 Contact
 
