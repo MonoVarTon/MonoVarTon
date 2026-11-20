@@ -15,6 +15,7 @@ Engineer and founder. I build products across AI, Web3 and automation — from i
 | Project | Direction | What | Stack |
 |---|---|---|---|
 | [mecenai](https://github.com/MonoVarTon/mecenai) | AI | AI sales concierge for artists and galleries: tool calling, price rules in code, [model evaluation](https://github.com/MonoVarTon/mecenai/blob/main/docs/evals/2026-11-20-model-comparison.md), MCP server | Python, FastAPI, MCP, Groq, pytest, GitHub Actions |
+| [jarvis-project-assistant](https://github.com/MonoVarTon/jarvis-project-assistant) | AI | Privacy-first JARVIS-style AI assistant skill for planning, research, coding and progress tracking | AI agent skill |
 | [vial-backend](https://github.com/MonoVarTon/vial-backend) | Web3 | NFT "alchemy" on TON: burn 2–4 NFTs, mint a new one | Python, TON |
 | [falcon-time-tracker](https://github.com/MonoVarTon/falcon-time-tracker) | Backend | Employee time tracking service | FastAPI, SQLite, JavaScript |
 | [Eggs-Of-Fortune](https://github.com/MonoVarTon/Eggs-Of-Fortune) | Web3 | Blockchain game, Minsk hackathon 2019 | JavaScript, Ethereum |
