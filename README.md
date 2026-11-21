@@ -14,7 +14,7 @@ Engineer and founder. I build products across AI, Web3 and automation — from i
 
 | Project | Direction | What | Stack |
 |---|---|---|---|
-| [mecenai](https://github.com/MonoVarTon/mecenai) | AI | AI sales concierge for artists and galleries: tool calling, price rules in code, [model evaluation](https://github.com/MonoVarTon/mecenai/blob/main/docs/evals/2026-11-20-model-comparison.md), MCP server | Python, FastAPI, MCP, Groq, pytest, GitHub Actions |
+| [mecenai](https://github.com/MonoVarTon/mecenai) · [▶ live demo](https://mecenai.onrender.com) | AI | AI sales concierge for artists and galleries: tool calling, price rules in code, [model evaluation](https://github.com/MonoVarTon/mecenai/blob/main/docs/evals/2026-11-20-model-comparison.md), MCP server | Python, FastAPI, MCP, Groq, pytest, GitHub Actions |
 | [jarvis-project-assistant](https://github.com/MonoVarTon/jarvis-project-assistant) | AI | Privacy-first JARVIS-style AI assistant skill for planning, research, coding and progress tracking | AI agent skill |
 | [moderated-live-operator](https://github.com/MonoVarTon/moderated-live-operator) | AI | Live-content operator console: AI drafts with human review, mute-by-default speech, captions, emergency stop, fail-closed handling | React, TypeScript, Express, tRPC, Vitest |
 | [vial-backend](https://github.com/MonoVarTon/vial-backend) | Web3 | NFT "alchemy" on TON: burn 2–4 NFTs, mint a new one | Python, TON |
