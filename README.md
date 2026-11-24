@@ -1,40 +1,47 @@
-### Hi, I'm Alexey 👋
+### Hi, I'm Aliaksei (Alexey) Choshau 👋
 
-Engineer and founder. I build products across AI, Web3 and automation — from idea and architecture to backend, payments and deployment.
+Applied AI Engineer and founder. I build defensible agentic systems, deterministic safety protocols, and Python backends — from concept and architecture to model evaluations, payment rails, and production deployment.
 
-- 🤖 **AI** — LLM agents with tool calling, MCP servers, model evaluation, AI image and content generation
-- ⛓ **Web3** — TON and Ethereum: NFT mechanics, payments, research on blockchains for AI agents
-- ⚙️ **Automation** — n8n pipelines, content factories, scheduled cloud jobs
-- 🎨 **Studio** — [369 Aether](https://369aether.net): websites and AI tools for artists and galleries
-- 📈 **Background** — degrees in crisis management and in crypto & derivatives market analysis
+- 🤖 **Applied AI & Safety** — LLM agents with deterministic tool boundaries, MCP servers, empirical model evaluations (Evals), fail-closed guardrails
+- ⚙️ **Backend & Systems** — Python, FastAPI, Pydantic, async pipelines, SQLite, REST APIs, TypeScript, Docker, GCP, Render
+- ⛓ **Web3 & Automation** — TON and Ethereum smart contract guardrails, NFT mechanics, n8n pipelines, scheduled cloud daemons
+- ✈️ **Prior Systems Background** — Commercial aviation safety operations (SOPs), operational Kaizen, cross-border European execution
+- 🎨 **Studio & Work** — [369 Aether](https://369aether.net): websites and AI automation tools
 
 ---
 
-### 🛠 Public projects
+### 🛠 Public Projects
 
-| Project | Direction | What | Stack |
-|---|---|---|---|
-| [mecenai](https://github.com/MonoVarTon/mecenai) · [▶ live demo](https://mecenai.onrender.com) | AI | AI sales concierge for artists and galleries: tool calling, price rules in code, [model evaluation](https://github.com/MonoVarTon/mecenai/blob/main/docs/evals/2026-11-20-model-comparison.md), MCP server | Python, FastAPI, MCP, Groq, pytest, GitHub Actions |
-| [jarvis-project-assistant](https://github.com/MonoVarTon/jarvis-project-assistant) | AI | Privacy-first JARVIS-style AI assistant skill for planning, research, coding and progress tracking | AI agent skill |
-| [moderated-live-operator](https://github.com/MonoVarTon/moderated-live-operator) | AI | Live-content operator console: AI drafts with human review, mute-by-default speech, captions, emergency stop, fail-closed handling | React, TypeScript, Express, tRPC, Vitest |
-| [vial-backend](https://github.com/MonoVarTon/vial-backend) | Web3 | NFT "alchemy" on TON: burn 2–4 NFTs, mint a new one | Python, TON |
-| [falcon-time-tracker](https://github.com/MonoVarTon/falcon-time-tracker) | Backend | Employee time tracking service | FastAPI, SQLite, JavaScript |
-| [Eggs-Of-Fortune](https://github.com/MonoVarTon/Eggs-Of-Fortune) | Web3 | Blockchain game, Minsk hackathon 2019 | JavaScript, Ethereum |
+| Project | Direction | What | Key Metric / Verification | Stack |
+|---|---|---|---|---|
+| [mecenai](https://github.com/MonoVarTon/mecenai) · [▶ live demo](https://mecenai.onrender.com) | AI Safety & Evals | Production AI sales concierge: deterministic tool calling, MCP server in public registry, HMAC session integrity | **0/6 invented prices / stories** in comparative model benchmark; 5 security vulnerabilities patched | Python, FastAPI, MCP, Groq, Pytest, Render |
+| [moderated-live-operator](https://github.com/MonoVarTon/moderated-live-operator) | AI Safety | Human-in-the-loop control console: fail-closed state machine, mute-by-default audio, emergency kill-switch | **35/35 passing Vitest tests**, production build verified | React, TypeScript, Express, tRPC, Vitest |
+| [falcon-time-tracker](https://github.com/MonoVarTon/falcon-time-tracker) | Backend & QA | High-integrity dispatch time tracking engine with UTC persistence and DST transition handling | **112 automated pytest checks**, independent multi-model adversarial review (6 defects fixed) | FastAPI, SQLite, JavaScript, Pytest |
+| [jarvis-project-assistant](https://github.com/MonoVarTon/jarvis-project-assistant) | Agent Architecture | Privacy-first JARVIS-style autonomous project assistant skill: deep work protocols and verifiable telemetry | Systematic project planning & audit loops | Agent Specification, Markdown |
+| [vial-backend](https://github.com/MonoVarTon/vial-backend) | Web3 Systems | NFT state transformation and minting logic on TON blockchain | Non-custodial transaction lifecycle | Python, TON |
+| [Eggs-Of-Fortune](https://github.com/MonoVarTon/Eggs-Of-Fortune) | Web3 Prototype | Decentralized gaming smart contract and frontend prototype | **1st place**, Minsk Blockchain Hackathon 2019 | JavaScript, Ethereum |
 
-### 🔒 Also built (private)
+---
 
-| Project | Direction | What |
+### 🔒 Operational Systems & Production Pipelines (Private / Client)
+
+| Project | Domain | Operational Architecture |
 |---|---|---|
-| AI Sticker Factory | AI · Web3 | Telegram Mini App: AI stickers (Gemini), payments in Telegram Stars and TON, NFT; Nginx + VM on Google Cloud |
-| Content factories | Automation | n8n pipelines in Docker: news → LLM → posts and videos for X, Telegram, TikTok, YouTube; serverless jobs on Cloud Run |
-| Pixelverse | AI | A persistent world inhabited by AI agents with its own economy |
-| budzko.art | Web | Gallery website for a painter — first painting sold through the site in October 2026 |
-| studio-os | Web3 | Launch studio framework for crypto projects |
+| **AI Sticker Factory** | Multimodal AI · Web3 | Telegram Mini App: multimodal generation (Gemini Vision, Replicate, Bria), Stars & TON payments, GCP VM, Nginx, systemd |
+| **Content Factories** | Automation | Dockerized n8n pipelines: automated analysis → LLM synthesis → vertical video assembly via FFmpeg and Cloud Run jobs |
+| **TON Agent Wallet** | Research / Safety | Non-custodial agent financial guardrails: daily spending caps, address allowlists, replay-attack prevention |
+| **BK ArtStudio (budzko.art)** | Web Architecture | High-performance art platform (~40 pages), responsive galleries, international sales channels |
 
-### ⚙️ Stack
+---
 
-`Python` `TypeScript` `React` `FastAPI` `LLM APIs` `tool calling` `MCP` `n8n` `Docker` `Google Cloud` `Cloud Run` `Cloudflare` `SQLite` `PostgreSQL` `Telegram Bot API` `Telegram Mini Apps` `TON` `Ethereum` `JavaScript` `GitHub Actions`
+### ⚙️ Core Technical Stack
 
-### 📬 Contact
+`Python` `FastAPI` `Pydantic` `LLM APIs` `Model Context Protocol (MCP)` `Pytest` `Vitest` `TypeScript` `React` `Docker` `Google Cloud (GCP)` `Render` `SQLite` `Telegram Bot API` `TON` `Ethereum` `GitHub Actions CI/CD`
 
-Open to collaboration, projects and roles — studio: [369aether.net](https://369aether.net)
+---
+
+### 📬 Contact & Mobility
+
+- **Email:** [hello@369aether.net](mailto:hello@369aether.net)
+- **Telegram:** [@Geministop](https://t.me/Geministop) · **WhatsApp:** +375 25 642-74-92
+- **Location:** Belarus (Open to immediate international relocation & in-person engineering in San Francisco)
